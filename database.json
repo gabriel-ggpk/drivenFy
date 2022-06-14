@@ -1,0 +1,40 @@
+{
+  "users": [
+    { "id": 1, "password": "ggg", "email": "g@g.com" },
+    { "id": 2, "password": "ggg", "email": "ggg@g.com" }
+  ],
+  "album": [
+    {
+      "id": 1,
+      "title": "album daora",
+      "artist": "gabriel da massa",
+      "music": ["1"]
+    },
+    {
+      "id": 2,
+      "title": "album daora",
+      "artist": "gabriel da massa",
+      "music": []
+    }
+  ],
+  "music": [
+    {
+      "id": 1,
+      "title": "musica daora",
+      "artist": "gabriel da massa",
+      "url": "link da musica daora"
+    },
+    {
+      "id": 2,
+      "title": "musica daora",
+      "artist": "gabriel da massa",
+      "url": "link da musica daora"
+    },
+    {
+      "id": 3,
+      "title": "musica daora",
+      "artist": "gabriel da massa",
+      "url": "link da musica daora"
+    }
+  ]
+}
